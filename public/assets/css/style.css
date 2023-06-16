@@ -1,0 +1,58 @@
+body
+{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #f8f8f8;
+    
+}
+.btn
+{
+    background-color: #6dabe4;
+}
+h2{
+    color: blue;
+}
+.container{
+    margin-top: 4rem;
+    background-color: #fff;
+    
+
+
+}
+.custom-container
+{
+    margin-top: 4rem;
+    background-color: #fff;
+    border-radius: 30px;
+}
+.custom-container-row-login
+{
+    padding-top: 3rem;
+}
+.custom-container-row-signup
+{
+    padding-top: 1.5rem;
+}
+.image-res
+{
+    padding-left: 3rem;
+}
+.form-res
+{
+    padding-right: 3rem;
+}
+.input-space
+{
+    margin-top: 20px;
+}
+.create-account-text a
+{
+    text-decoration: underline;
+    color: black;
+    
+}
+.create-account-text a:hover
+{
+    text-decoration: solid,underline;
+    color: #6dabe4;
+    
+}
